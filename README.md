@@ -1,2 +1,2 @@
 # hello-world2
-My first git project
+This will be an HTML Hello World type simple file.
